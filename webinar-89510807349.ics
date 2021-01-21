@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20210120T205448Z
+DTSTART;TZID=Europe/London:20210119T150000
+DTEND;TZID=Europe/London:20210119T160000
+SUMMARY:CloverDX Webinar - Driving Change In 2021\, The Data Perspective
+UID:20210120T205448Z-89510807349@fe80:0:0:0:9e:1ff:fe5e:e4f8ens5
+TZID:Europe/London
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://us02web.zoom.us/w/89510807349?tk=
+ vRrbHTqA2yUjiqtHAIefelyhWO602c0VbXLPFwtVqWQ.DQIAAAAU10KHNRZJZHFHOWotOVJI
+ eVNOV0c2YXlrOVNBAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=OWdQUW82cVNPd05TVWtUUVR
+ oeWhRdz09&uuid=WN_39WlXqqkQ5KBb9egzGI-QQ\n    Passcode: CloverDX12\n	Des
+ cription: On this webinar\, we&#39\;ll have a look at what we can expect
+  here and now\, in 2021 and the impact of recent global events and how t
+ hat will affect the data initiatives that companies will take on this ye
+ ar.\n\nFeel free to ask questions!\n\nOr join by phone:\n    Dial(for hi
+ gher quality\, dial a number based on your current location):\n        U
+ S: +1 301 715 8592  or +1 312 626 6799  or +1 646 558 8656  or +1 253 21
+ 5 8782  or +1 346 248 7799  or +1 669 900 9128 \n    Webinar ID: 895 108
+ 0 7349\n    Passcode: 6666139535\n    International numbers available: h
+ ttps://us02web.zoom.us/u/kzOvl8jGQ\n\n
+LOCATION:https://us02web.zoom.us/w/89510807349?tk=vRrbHTqA2yUjiqtHAIefely
+ hWO602c0VbXLPFwtVqWQ.DQIAAAAU10KHNRZJZHFHOWotOVJIeVNOV0c2YXlrOVNBAAAAAAA
+ AAAAAAAAAAAAAAAAAAAAA&pwd=OWdQUW82cVNPd05TVWtUUVRoeWhRdz09&uuid=WN_39WlX
+ qqkQ5KBb9egzGI-QQ
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
