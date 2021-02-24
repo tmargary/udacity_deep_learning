@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:-//Facebook//NONSGML Facebook Events V1.0//EN
+X-PUBLISHED-TTL:PT12H
+X-ORIGINAL-URL:https://www.facebook.com/events/889943435170755/
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210215T133943Z
+LAST-MODIFIED:20210215T133943Z
+CREATED:20210215T133943Z
+SEQUENCE:0
+ORGANIZER;CN=American University of Armenia:MAILTO:noreply@facebookmail.com
+DTSTART:20210217T133000Z
+DTEND:20210217T163000Z
+UID:e889943435170755@facebook.com
+SUMMARY:What is Really Happening Post-2020 War and is There Anything Individuals Can Do?
+URL:https://www.facebook.com/events/889943435170755/
+DESCRIPTION:About the Event:\n\nAUA will host a 
+ public discussion with human right
+ s experts to discuss the post-2020
+  war reality.\n\nAbout the Panelists
+ :\n\nArman Tatoyan\, Human Rights Def
+ ender (Ombudsman) of the Republic 
+ of Armenia\; Adjunct Lecturer at th
+ e College of Humanities and Social
+  Sciences\n\nSiranush Sahakyan\, Ad h
+ oc judge of the European Court of 
+ Human Rights\; Adjunct Lecturer at 
+ the College of Humanities and Soci
+ al Sciences\n\nYeghishe Kirakosyan\, 
+ Representative of the Republic of 
+ Armenia before the European Court 
+ of Human Rights\; Adjunct Lecturer 
+ at the College of Humanities and S
+ ocial Sciences\n\nAdelaida Baghdasar
+ yan\, LL.M. program Program Chair (
+ Moderator of the panel)\n\nLanguage:
+  English\n\nIf you are interested\, j
+ oin the discussion via Zoom at htt
+ ps://bit.ly/2ZjYFJq  \n\nhttps://www
+ .facebook.com/events/8899434351707
+ 55/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+END:VCALENDAR
